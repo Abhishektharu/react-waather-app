@@ -1,0 +1,6 @@
+Extend functionality: 
+Add features like 5-day weather forecast 
+showing weather by the user's location using navigator.geolocation.
+Refactor the code: Move the API fetching logic to a custom hook for better structure.
+
+api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
